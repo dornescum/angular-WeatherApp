@@ -1,5 +1,14 @@
 # WeatherAppTut
+![img.png](src/assets/weather-app.webp)
 
+
+# Services, FormsModules
+tutorial:
+'https://www.youtube.com/watch?v=psZXU8PTAS8&t=1414s'
+
+## concepts : **Pipe, Services**
+>  fetch data & ngModel
+<br/>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
